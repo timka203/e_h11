@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project22\project22\source.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\тимур\source\repos\project22\project22\source.cpp(73): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project22.vcxproj -> C:\Users\Тимур\source\repos\Project22\Debug\Project22.exe
